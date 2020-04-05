@@ -8,5 +8,5 @@ def toadstool
 end
 
 def link 
-  puts 
+  puts warning = "It's Dangerous To Go Alone! Take This."
 end
