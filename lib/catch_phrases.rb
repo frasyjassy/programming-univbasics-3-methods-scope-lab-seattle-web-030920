@@ -10,3 +10,4 @@ end
 def link 
   puts warning = "It's Dangerous To Go Alone! Take This."
 end
+
